@@ -1,2 +1,2 @@
 # TestRepo
-Testing the repo demo
+Teaching demo of git hub to team
